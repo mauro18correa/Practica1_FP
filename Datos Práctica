@@ -4,9 +4,9 @@ Correa Alcánta Mauro Andrés
 Santiago Pérez Rubí
 
 
-M.C.A. Diagrama de Flujo
+Diagrama de Flujo
 
-M.C.A Es un esquema para representar gráficamente un algoritmo. Se basan en la utilización de diversos símbolos para representar operaciones específicas, es decir,
+Es un esquema para representar gráficamente un algoritmo. Se basan en la utilización de diversos símbolos para representar operaciones específicas, es decir,
 es la representación gráfica de las distintas operaciones que se tienen que realizar para resolver un problema, con indicación expresa el orden lógico en que
 deben realizarse. Se les llama diagramas de flujo porque los símbolos utilizados se conectan por medio de flechas para indicar la secuencia de operación. Para
 hacer comprensibles los diagramas a todas las personas, los símbolos se someten a una normalización; es decir, se hicieron símbolos casi universales, ya que,
@@ -15,9 +15,9 @@ sólo aquel que conocía sus símbolos, los podía interpretar. La simbología u
 patrón definido previamente. El diagrama de flujo representa la forma más tradicional y duradera para especificar los detalles algorítmicos de un proceso. Se 
 utiliza principalmente en programación, economía y procesos industriales.
 
-M.C.A Importancia del los diagramas de flujo
+Importancia del los diagramas de flujo
 
-M.C.A Los diagramas de flujo son importantes porque nos facilita la manera de representar visualmente el flujo de datos por medio de un sistema de tratamiento de 
+Los diagramas de flujo son importantes porque nos facilita la manera de representar visualmente el flujo de datos por medio de un sistema de tratamiento de 
 información, en este realizamos un análisis de los procesos o procedimientos que requerimos para realizar un programa o un objetivo. 
 
 
