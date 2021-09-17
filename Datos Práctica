@@ -21,3 +21,17 @@ Los diagramas de flujo son importantes porque nos facilita la manera de represen
 información, en este realizamos un análisis de los procesos o procedimientos que requerimos para realizar un programa o un objetivo. 
 
 
+Algoritmos
+
+Un algoritmo es una lista de instrucciones donde se especifica una sucesión de operaciones necesarias para resolver un problema, o bien, ejecutar correctamente una actividad.
+Se caracterizan por ser precisos (caracerísticas claras de los elementos), finitos (tienen un principio y un fin), definidos (siempre van a tener un resultado) y legibles (no tienen que ser ambigüos).
+Los tipos de datos que pueden ser ingresados son numéricos y no numéricos. Los primeros se dividen en enteros (naturales, positivos y negativos) y flotantes (decimales y notación científica). Los segundos se dividen en tipo caracter (letra) y lógicos (NOR, XOR, AND, OR).
+
+Utilizan una metodología para la solución de problemas la cual consta de 3 procesos:
+1.- Análisis del problema (entrada, restricciones y salida).
+2.- Diseño del algoritmo.
+3.- Verificación del algoritmo (comprobación del funcionamiento).
+
+Importacia de los algoritmos
+
+Diariamente, seamos consientes o no de ello, empleamos la utilización de algoritmos en nuestra vida cotidiana. Nos ayudan a realizar correctamente cuanquier actividad que se nos presente, desde levantarnos y cepillarnos los dientes hasta un trabajo solicitado en la escuela.
